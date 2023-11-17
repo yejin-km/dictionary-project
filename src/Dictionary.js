@@ -5,6 +5,7 @@ export default function Dictionary() {
   let [inputValue, setInputValue] = useState(null);
   function search(event) {
     event.preventDefault();
+    alert(`Searching for ${inputValue}.....`);
   }
 
   function handleInputValueChange(event) {
