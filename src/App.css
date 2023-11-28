@@ -1,3 +1,10 @@
+body {
+  background-image: url("/images/stars.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 main {
   margin: 0 auto;
 }

@@ -1,0 +1,7 @@
+.Phonetic button {
+  border-radius: 50%;
+  margin: 3px;
+  padding: 6px;
+  margin-right: 10px;
+  border: 1px solid lightgray;
+}
